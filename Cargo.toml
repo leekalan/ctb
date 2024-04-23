@@ -1,0 +1,9 @@
+[package]
+name = "ctb"
+description = "ctb unifies borrowed and owned values into a smart pointer that is internally borrowed to retain ownership."
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
